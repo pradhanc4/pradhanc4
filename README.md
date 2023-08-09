@@ -1,5 +1,4 @@
-## About Me:
-# 💫 Chetan Pradhan
+# 💫 About Me:
 Entrepreneurship leadership, web development skills including HTML, CSS, JavaScript, React, Bootstrap and backend development.<br>
 
 
