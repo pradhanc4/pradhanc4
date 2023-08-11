@@ -22,8 +22,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,git,kubernetes,docker,cpp,aws" />
-    <img src="https://skillicons.dev/icons?i=jenkins,linux,php,json,ajax" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,git" />
+    <img src="https://skillicons.dev/icons?i=jenkins,linux,kubernetes,docker,aws,cpp" />
 
   </a>
 </p>
