@@ -1,4 +1,4 @@
-<h1 align="center"> <img src=<iframe src="https://giphy.com/gifs/illustration-hollywood-xTiTnwF6G6WRBC738Y/giphy.gif" width="30" height="360">👋 I'm Chetan Pradhan </h1>
+<h1 align="center"> 👋 I'm Chetan Pradhan </h1>
 <h3 align="center">Designing and constructing interactive digital realms that delight users, blending frontend finesse and backend ingenuity for an unforgettable web Development.</h3>
 <P align="center"> 🌟 Frontend Artistry Meets Backend Mastery! 🌟 </P>
 <p align="center">
