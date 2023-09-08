@@ -1,6 +1,6 @@
 <h1 align="center">👋 I'm Chetan Pradhan </h1>
 <h3 align="center">Designing and constructing interactive digital realms that delight users, blending frontend finesse and backend ingenuity for an unforgettable web Development.</h3>
-
+<P align="center"> 🌟 Frontend Artistry Meets Backend Mastery! 🌟 </P>
 <p align="center">
 <a href="https://www.linkedin.com/in/cp007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityajaiswal7" height="30" width="40" /></a>
 <a href="https://www.instagram.com/chetanpradhan143/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a>
