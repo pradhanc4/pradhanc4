@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently hosting Websites using DevOps tools 
 
-- 📫 How to reach me **e.pradhan007@gmail.com** 
+- 📫 How to reach me **e.chetan2024@gmail.com** 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
