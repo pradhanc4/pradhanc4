@@ -7,7 +7,7 @@
 <a href="https://www.hackerrank.com/e_pradhan007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a>
 <a href="https://twitter.com/epradhan007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a> 
 </p>
-<img align="right" alt="Coding" width="600" src="https://github.com/user-attachments/assets/de0cd155-a863-4736-8117-e96762a8146d")
+<img align="right" alt="Coding" width="450" src="https://github.com/user-attachments/assets/de0cd155-a863-4736-8117-e96762a8146d")
 ">
 
 <h3 text-decoration = "underline">About me:</h3> 
