@@ -11,7 +11,7 @@
 
 <h3 text-decoration = "underline">About me:</h3> 
 
-- 🔭 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🔭 I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 👨‍💻 Frontend and Backend Development using React Framework.
 
