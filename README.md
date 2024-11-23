@@ -14,7 +14,7 @@
 
 - 🔭 I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 👨‍💻 Frontend and Backend Development services using DevOps & Cloud AWS.
+- 👨‍💻 Frontend and Backend services using DevOps & Cloud AWS.
 
 - 🌱 I’m currently hosting Websites using DevOps tools 
 
